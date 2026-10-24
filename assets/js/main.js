@@ -1,9 +1,8 @@
 // skope8 — comportamiento del sitio
 
-// TODO: completar con los datos reales de contacto.
-// whatsapp: número con indicativo de país, sin "+" ni espacios (ej. 573001234567).
+// Datos de contacto. whatsapp: número con indicativo de país, sin "+" ni espacios.
 const CONTACT = {
-  whatsapp: "573000000000",
+  whatsapp: "573164437124",
   email: "juan.garcia@skope8.com",
   whatsappText: "Hola Juan, quiero contarte un proceso de mi empresa en 30 minutos.",
   emailSubject: "Quiero contarte un proceso en 30 minutos",
